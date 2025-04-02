@@ -3,7 +3,6 @@ package problems;
 import java.util.Scanner;
 
 /**
- * This method checks if a number is prime using recursion.
  *
  * Approach:
  * - A number is prime if it is greater than 1 and not divisible by any number

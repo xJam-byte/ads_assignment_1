@@ -3,7 +3,6 @@ package problems;
 import java.util.Scanner;
 
 /**
- * This method finds the minimum value in an array using recursion.
  *
  * Approach:
  * - The function compares the last element with the minimum of the rest of the array.

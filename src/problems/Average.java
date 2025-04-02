@@ -3,7 +3,6 @@ package problems;
 import java.util.Scanner;
 
 /**
- * This method calculates the average of an array using recursion.
  *
  * Approach:
  * - The function accumulates the sum and divides by the number of elements.

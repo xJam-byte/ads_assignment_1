@@ -10,7 +10,6 @@ import java.util.Scanner;
  * - If the exponent is odd: a^b = a * (a^(b-1)).
  *
  * Time Complexity: O(log b), since we reduce the exponent by half in each step.
- * Space Complexity: O(log b) (due to recursion stack).
  *
  * param a base number.
  * param b The exponent.

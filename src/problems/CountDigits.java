@@ -9,7 +9,6 @@ import java.util.Scanner;
  * - Recursive case: Remove the last digit (n / 10) and add 1 to the count.
  *
  * Time Complexity: O(log n), since we remove one digit at a time.
- * Space Complexity: O(log n) (due to recursion stack).
  *
  * param n The input integer.
  * @return The number of digits in the integer.

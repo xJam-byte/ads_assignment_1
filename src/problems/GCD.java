@@ -3,14 +3,12 @@ package problems;
 import java.util.Scanner;
 
 /**
- * This method computes the Greatest Common Divisor (GCD) of two numbers using recursion.
  *
  * Approach:
  * - Uses the Euclidean Algorithm: GCD(a, b) = GCD(b, a % b).
  * - Base case: If b == 0, return a.
  *
  * Time Complexity: O(log min(a, b)), as each step reduces the problem size.
- * Space Complexity: O(log min(a, b)) (due to recursion stack).
  *
  * param a first number.
  * param b The second number.

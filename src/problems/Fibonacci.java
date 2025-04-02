@@ -3,7 +3,6 @@ package problems;
 import java.util.Scanner;
 
 /**
- * This method computes the nth Fibonacci number using recursion.
  *
  * Approach:
  * - Base cases: Fibonacci(0) = 0, Fibonacci(1) = 1.
